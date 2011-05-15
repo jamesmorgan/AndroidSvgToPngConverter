@@ -1,0 +1,1 @@
+A simple little groovy project aiding me in converting my SVG images to the various needed image sizes for supporting different screen resolutions on Android. Comes with sample SVG's to convert. Has a dependency on http://xmlgraphics.apache.org/batik/ and requires Groovy eclipse plugin to run inside Eclipse
